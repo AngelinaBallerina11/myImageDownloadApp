@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="MyImageDownloadApplicationTheme" parent="Theme.AppCompat">
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:colorPrimary">@color/image_download</item>
+        <item name="android:colorAccent">@color/image_download_link_highlight</item>
+        <item name="android:statusBarColor">@color/background_super_dark</item>
+        <item name="android:navigationBarColor">@color/background_super_dark</item>
+        <item name="android:colorButtonNormal">@color/image_download_button</item>
+    </style>
+	
+	<style name="MyImageDownloadApplicationTheme.TextLabel">
+		<item name="android:textSize">18sp</item>
+	</style>
+	<style name="MyImageDownloadApplicationTheme.TextInputLayout">
+		<item name="android:textColorHint">@color/image_download</item>
+		<item name="colorAccent">@color/image_download</item>
+		<item name="colorControlNormal">@color/hint_disabled_dark</item>
+		<item name="colorControlActivated">@color/image_download</item>
+		
+	</style>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="image_download">#03a9f4</color> <!--light blue 500 -->-->
+    <color name="image_download_dark">#039be5</color> <!-- light blue 600 -->
+    <color name="image_download_link_highlight">#b303a9f4</color>
+    <color name="hint_disabled_dark">#43000000</color> <!-- 26% black -->
+	<color name="background_super_dark">#ff292929</color>
+</resources>

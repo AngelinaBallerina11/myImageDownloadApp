@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Secret Image Download</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="please_login_to_fetch_the_image">Please login to fetch the image</string>
+    <string name="log_in">Log in</string>
+	<string name="please_fill_in_username">Please fill in username</string>
+	<string name="please_fill_in_password">Please fill in password</string>
+	<string name="download_failed">Download failed</string>
+	<string name="error_401">Authentication failed. Please enter correct credentials</string>
+	<string name="error_403">Access is forbidden. Contact support</string>
+	<string name="error_404">Image was not found</string>
+	<string name="server_error">Something went wrong on the server</string>
+</resources>
