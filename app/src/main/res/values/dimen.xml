@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--margins-->
+	<dimen name="default_margin">16dp</dimen>
+	<dimen name="button_top_margin">32dp</dimen>
+	<dimen name="username_top_margin">24dp</dimen>
+	<!--padding-->
+	<dimen name="button_padding">4dp</dimen>
+	<!--text size-->
+	<dimen name="text_size_header">18sp</dimen>
+</resources>
