@@ -30,7 +30,10 @@ dependencies {
     implementation "android.arch.lifecycle:extensions:$view_model_live_data"
     testImplementation "junit:junit:$junit"
     androidTestImplementation "com.android.support.test:runner:$test_runner"
+    androidTestImplementation "com.android.support.test:rules:$test_runner"
     androidTestImplementation "com.android.support.test.espresso:espresso-core:$espresso"
+    androidTestImplementation "com.android.support.test.espresso:espresso-contrib:$espresso"
+    androidTestImplementation "com.android.support.test.uiautomator:uiautomator-v18:$ui_automator"
 
     // Dagger 2
     implementation "com.google.dagger:dagger:$dagger"
